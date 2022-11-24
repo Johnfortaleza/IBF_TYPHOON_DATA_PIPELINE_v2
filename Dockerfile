@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:18.04
 
 # Set up main directory
 RUN mkdir --parents /home/fbf/forecast
